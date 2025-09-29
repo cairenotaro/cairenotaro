@@ -22,6 +22,7 @@
 
 > “Imparare non è mai stato così divertente! 🚀”
 
+
 Acesse meu portfólio em: 
 <a href="https://gitfollio.vercel.app/cairenotaro"> 🔗
   https://gitfollio.vercel.app/cairenotaro
@@ -32,9 +33,9 @@ Acesse meu portfólio em:
   "gitfolio": "on",
   "name": "Caire  Notaro",
   "email": "cairenotaro@hotmail.com",
-  "tagline": "",
+  "tagline": "Front End Developer",
   "avatar_url": "https://avatars.githubusercontent.com/u/178809570?v=4",
-  "website": "",
+  "website": "https://cairenotaro.github.io/portfolio-caire/",
   "githubUser": "cairenotaro",
   "linkedinUser": "www.linkedin.com/in/caire-notaro",
   "about": "Mi chiamo Caire Notaro e sono una sviluppatrice front-end junior in formazione, appasionata di tecnologia, design accessibile e comunicazione chiara. Sto approfondendo competenze in HTML, CSS, JavaScript, React e Git, con l’obiettivo di trasformare la teoria in pratica attraverso progetti concreti e collaborativi.",
@@ -44,10 +45,7 @@ Acesse meu portfólio em:
   "following": 6,
   "themeId": "professional",
   "tech": [
-  "Java Scropt",
-  "Css",
-  "Git",
-  ""
+  "HTML,CSS,JavaScript,Git,"
 ],
   "projects": [
   {
@@ -96,4 +94,5 @@ Acesse meu portfólio em:
 ]
 }
 GitFolio:end -->
+  
   
