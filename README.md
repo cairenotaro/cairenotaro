@@ -59,7 +59,7 @@ Acesse meu portfólio em:
       "HTML",
       "CSS"
     ],
-    "deploy": "",
+    "deploy": "https://cairenotaro.github.io/portfolio-caire/",
     "highlighted": true
   },
   {
@@ -74,7 +74,7 @@ Acesse meu portfólio em:
       "HTML",
       "JavaScript"
     ],
-    "deploy": "",
+    "deploy": "https://cairenotaro.github.io/Calculatrice/",
     "highlighted": false
   },
   {
@@ -95,4 +95,5 @@ Acesse meu portfólio em:
 }
 GitFolio:end -->
   
+
   
